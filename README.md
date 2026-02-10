@@ -1,0 +1,1 @@
+# LogiConcepts2026.1
