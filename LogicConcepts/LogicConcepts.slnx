@@ -2,4 +2,10 @@
   <Folder Name="/01/">
     <Project Path="isNumberOodOrNot/isNumberOodOrNot.csproj" Id="eb5accea-5025-4a6d-ba74-03dfbcf703cd" />
   </Folder>
+  <Folder Name="/02/">
+    <Project Path="TheGreathestyNumber/TheGreathestyNumber.csproj" Id="3d93c9df-60eb-4e30-9275-22239770f6ca" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="Shared/Shared.csproj" Id="c79d9e41-147e-45bc-ae54-5be72c5799fb" />
+  </Folder>
 </Solution>
