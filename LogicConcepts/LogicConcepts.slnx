@@ -8,6 +8,9 @@
   <Folder Name="/03/">
     <Project Path="SortNumbers/SortNumbers.csproj" Id="4711a65b-703c-44d8-bb10-6fa67a8db6db" />
   </Folder>
+  <Folder Name="/04/">
+    <Project Path="IsMultipleOfAnother/IsMultipleOfAnother.csproj" Id="2ef37e00-b751-492e-aa92-5b22d331f714" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" Id="c79d9e41-147e-45bc-ae54-5be72c5799fb" />
   </Folder>
