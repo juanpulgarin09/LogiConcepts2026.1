@@ -48,6 +48,7 @@ public static class ConsoleExtension
     }
 
 
+
     public static string? GetValidOptions(string message, List<string> options)
     {
         Console.Write(message);
