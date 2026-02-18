@@ -1,3 +1,3 @@
 # LogiConcepts2026.1
 
-Este es un repo para repasar los conceptos de logica, vamos a utilizar C# y VisualStudio
+This is a repo to review logic concepts, we are going to use C# and VisualStudio
