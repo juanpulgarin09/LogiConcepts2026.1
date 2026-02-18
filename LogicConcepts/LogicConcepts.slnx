@@ -50,6 +50,9 @@
   <Folder Name="/17/">
     <Project Path="Fibonacci/Fibonacci.csproj" Id="87a52928-32be-4cc7-a513-6e861e39c58f" />
   </Folder>
+  <Folder Name="/18/">
+    <Project Path="FibonacciModified/FibonacciModified.csproj" Id="d69f2fad-1b14-48ff-9200-f37d5ed3fcea" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" Id="c79d9e41-147e-45bc-ae54-5be72c5799fb" />
   </Folder>
