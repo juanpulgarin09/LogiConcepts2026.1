@@ -26,6 +26,17 @@ public static class ConsoleExtension
         return 0;
     }
 
+    public static double GetDouble(string message)
+    {
+        Console.Write(message);
+        var numberString = Console.ReadLine();
+        if (double.TryParse(numberString, out double numberDouble))
+        {
+            return numberDouble;
+        }
+
+        return 0;
+    }
 
     public static decimal GetDecimal(string message)
     {
