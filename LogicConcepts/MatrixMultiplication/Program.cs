@@ -5,7 +5,6 @@ var options = new List<string> { "s", "n" };
 
 do
 {
-    // Data input
     Console.BackgroundColor = ConsoleColor.Blue;
     Console.Clear();
     Console.WriteLine("*** MULTIPLICACIÓN DE MATRICES ***");
@@ -13,7 +12,6 @@ do
     var n = ConsoleExtension.GetInt("Ingrese el valor de n: ");
     var p = ConsoleExtension.GetInt("Ingrese el valor de p: ");
 
-    // Show results
     Console.BackgroundColor = ConsoleColor.Black;
     Console.ForegroundColor = ConsoleColor.Yellow;
     Console.Clear();
