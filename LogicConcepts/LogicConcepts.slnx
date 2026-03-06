@@ -68,6 +68,9 @@
   <Folder Name="/23/">
     <Project Path="Calander/Calendar.csproj" Id="795a70d1-6140-4181-a643-9924733a8914" />
   </Folder>
+  <Folder Name="/32/">
+    <Project Path="Rhombus/Rhombus.csproj" Id="bd727566-6e01-4f3c-b6e8-e4afe8c54315" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" Id="c79d9e41-147e-45bc-ae54-5be72c5799fb" />
   </Folder>
