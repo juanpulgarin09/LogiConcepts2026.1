@@ -5,13 +5,11 @@ var options = new List<string> { "s", "n" };
 
 do
 {
-    // Data input
     Console.BackgroundColor = ConsoleColor.Blue;
     Console.Clear();
     Console.WriteLine("*** ROMBO ***");
     var n = ConsoleExtension.GetInt("Ingrese el tamaño del rombo: ");
 
-    // Show results
     Console.BackgroundColor = ConsoleColor.Black;
     Console.ForegroundColor = ConsoleColor.Yellow;
     Console.Clear();
@@ -29,7 +27,6 @@ do
 
 void ShowRhombus(int n)
 {
-    // Mitad superior
     for (int i = 1; i <= n; i++)
     {
         Console.Write(new string(' ', n - i));
@@ -42,7 +39,6 @@ void ShowRhombus(int n)
         Console.WriteLine();
     }
 
-    // Mitad inferior
     for (int i = n - 1; i >= 1; i--)
     {
         Console.Write(new string(' ', n - i));
